@@ -1,6 +1,10 @@
 function Update(){
     return(
-        <div>Update page</div>
+        <div>
+            <div>
+                Update page
+            </div>    
+        </div>
     )
 }
 export default Update;
