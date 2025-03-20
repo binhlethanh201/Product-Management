@@ -1,6 +1,8 @@
 function Add(){
     return(
-        <div>Add product</div>
+        <div>
+            <div>Add product</div>
+        </div>
     )
 }
 export default Add;
