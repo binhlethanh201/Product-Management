@@ -1,6 +1,8 @@
 function Detail(){
     return(
-        <div> Detail page</div>
+        <div> 
+            <div>Detail page</div>
+        </div>
     )
 }
 export default Detail;
