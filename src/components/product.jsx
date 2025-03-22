@@ -18,6 +18,12 @@ function Product() {
             })
             .catch(error => console.error(error));
     }, []);
+    useEffect(() => {
+            fetch(``)
+            .then()
+            .then()
+            .catch(error => console.log(error));
+    }, []);
 
     return (
         <Container>
