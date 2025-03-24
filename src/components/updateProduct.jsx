@@ -2,7 +2,7 @@ function Update(){
     return(
         <div>
             <div>
-                Update page
+                Update product page
             </div>    
         </div>
     )
