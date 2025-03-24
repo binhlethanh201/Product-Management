@@ -1,7 +1,7 @@
 function Add(){
     return(
         <div>
-            <div>Add product</div>
+            <div>Add product page</div>
         </div>
     )
 }
